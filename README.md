@@ -3,6 +3,6 @@ Repository of my first approuch to coding on highschool. This repositroy has som
 I don´t have all the files used to play the game, but I keep this repository because I want to remember my first experience coding.
 
 
-##Technologies:
+## Technologies:
 - Html
 - Css
